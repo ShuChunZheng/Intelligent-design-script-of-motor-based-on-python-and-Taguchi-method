@@ -1,0 +1,971 @@
+INFO:root:turnscacchecksign：3
+INFO:root:开始时间：2022-01-09 12:31:20.201962
+INFO:root:总耗时：2 分钟(0.0 小时)
+INFO:root:数据库表名：T4411424119862E1v32d85v10v4vd
+INFO:root:结束时间：2022-01-09 12:33:50.716751
+INFO:root:________________________________________________完 成_____________________________________________________
+INFO:root:i：0
+INFO:root:i：0
+INFO:root:higheffcurrent：1.34
+INFO:root:higheffcurrent01：2.01
+INFO:root:higheffspeed：11986.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.34, 79.6, 20.41]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[80.396, 78.80399999999999]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 23.3, 2.15, 0.0, 79.6, 1.32, 20.1, 2.28]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 23.3, 2.15, 0.0, 79.6, 1.32, 20.2, 2.29]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 23.3, 2.15, 0.0, 79.6, 1.33, 20.2, 2.3]
+INFO:root:i：1
+INFO:root:higheffcurrent：1.22
+INFO:root:higheffcurrent01：1.83
+INFO:root:higheffspeed：11522.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.22, 77.3, 18.77]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[78.073, 76.527]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 22.3, 2.15, 0.0, 79.5, 1.2, 19.0, 2.15]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 22.4, 2.15, 0.0, 79.5, 1.21, 19.1, 2.16]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：2.789
+INFO:root:SystemEfficiency > higheffmotoreffuplimit resultlist：[24.0, 94, 22.4, 2.789, 0.0, 77.8, 1.24, 19.1, 2.16]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.3, 2.789, 0.0, 77.8, 1.23, 19.0, 2.15]
+INFO:root:i：2
+INFO:root:higheffcurrent：1.12
+INFO:root:higheffcurrent01：1.68
+INFO:root:higheffspeed：11031.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.12, 75.0, 17.48]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[75.75, 74.25]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 21.4, 2.789, 0.0, 77.4, 1.1, 17.6, 1.98]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 21.4, 2.789, 0.0, 77.4, 1.11, 17.8, 2.0]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：3.428
+INFO:root:SystemEfficiency > higheffmotoreffuplimit resultlist：[24.0, 94, 21.4, 3.428, 0.0, 75.6, 1.14, 17.8, 2.0]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.4, 3.428, 0.0, 75.5, 1.12, 17.6, 1.98]
+INFO:root:i：3
+INFO:root:higheffcurrent：1.0
+INFO:root:higheffcurrent01：1.5
+INFO:root:higheffspeed：10492.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.0, 72.0, 15.75]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[72.72, 71.28]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 20.3, 3.428, 0.0, 74.4, 0.98, 15.9, 1.77]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 20.3, 3.428, 0.0, 74.5, 0.99, 16.0, 1.79]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：4.022
+INFO:root:SystemEfficiency > higheffmotoreffuplimit resultlist：[24.0, 94, 20.3, 4.022, 0.0, 72.6, 1.01, 16.0, 1.79]
+INFO:root:i：4
+INFO:root:higheffcurrent：0.88
+INFO:root:higheffcurrent01：1.32
+INFO:root:higheffspeed：9926.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.88, 70.9, 14.43]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[71.60900000000001, 70.191]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 19.3, 4.022, 0.0, 70.3, 0.85, 13.7, 1.53]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 19.3, 4.022, 0.0, 70.6, 0.87, 14.1, 1.57]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 19.3, 4.022, 0.0, 70.7, 0.87, 14.2, 1.58]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 19.3, 4.022, 0.0, 70.8, 0.87, 14.3, 1.59]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 19.3, 4.022, 0.0, 70.8, 0.88, 14.4, 1.6]
+INFO:root:i：5
+INFO:root:higheffcurrent：0.79
+INFO:root:higheffcurrent01：1.185
+INFO:root:higheffspeed：9476.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.79, 68.0, 13.02]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[68.68, 67.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 18.5, 4.022, 0.0, 68.2, 0.75, 12.4, 1.38]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 18.4, 4.022, 0.0, 68.9, 0.78, 12.9, 1.44]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 18.4, 4.022, 0.0, 69.0, 0.78, 13.0, 1.45]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 18.4, 4.022, 0.0, 69.1, 0.79, 13.1, 1.46]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：4.231
+INFO:root:SystemEfficiency > higheffmotoreffuplimit resultlist：[24.0, 94, 18.4, 4.231, 0.0, 68.3, 0.8, 13.1, 1.46]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 18.4, 4.231, 0.0, 68.2, 0.79, 13.0, 1.45]
+INFO:root:i：6
+INFO:root:higheffcurrent：0.69
+INFO:root:higheffcurrent01：1.035
+INFO:root:higheffspeed：9045.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.69, 67.6, 11.85]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[68.276, 66.92399999999999]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.7, 4.231, 0.0, 64.3, 0.66, 10.7, 1.2]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.7, 4.231, 0.0, 64.9, 0.68, 11.1, 1.24]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.7, 4.231, 0.0, 65.0, 0.68, 11.2, 1.25]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.7, 4.231, 0.0, 65.2, 0.68, 11.3, 1.26]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.7, 4.231, 0.0, 65.3, 0.69, 11.4, 1.27]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：3.85
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 17.7, 3.85, 0.0, 66.9, 0.67, 11.4, 1.27]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.7, 3.85, 0.0, 67.1, 0.68, 11.6, 1.29]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.7, 3.85, 0.0, 67.3, 0.68, 11.7, 1.3]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.7, 3.85, 0.0, 67.4, 0.69, 11.8, 1.31]
+INFO:root:i：7
+INFO:root:higheffcurrent：0.58
+INFO:root:higheffcurrent01：0.87
+INFO:root:higheffspeed：8521.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.58, 66.7, 10.42]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[67.367, 66.033]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.8, 3.85, 0.0, 61.6, 0.54, 9.0, 1.02]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.8, 3.85, 0.0, 62.9, 0.57, 9.6, 1.08]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.8, 3.85, 0.0, 63.1, 0.57, 9.7, 1.09]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.8, 3.85, 0.0, 63.2, 0.58, 9.8, 1.1]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：3.363
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 16.8, 3.363, 0.0, 65.6, 0.56, 9.8, 1.1]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.8, 3.363, 0.0, 66.1, 0.57, 10.1, 1.13]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.8, 3.363, 0.0, 66.2, 0.57, 10.2, 1.14]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.7, 3.363, 0.0, 66.4, 0.58, 10.3, 1.15]
+INFO:root:i：8
+INFO:root:higheffcurrent：0.49
+INFO:root:higheffcurrent01：0.735
+INFO:root:higheffspeed：8074.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.49, 67.7, 9.43]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[68.37700000000001, 67.023]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.0, 3.363, 0.0, 60.1, 0.46, 7.8, 0.89]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.0, 3.363, 0.0, 61.4, 0.48, 8.3, 0.94]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.0, 3.363, 0.0, 61.6, 0.48, 8.4, 0.95]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.0, 3.363, 0.0, 61.9, 0.48, 8.5, 0.96]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.0, 3.363, 0.0, 62.1, 0.49, 8.6, 0.97]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：2.704
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 16.0, 2.704, 0.0, 65.8, 0.46, 8.6, 0.97]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.0, 2.704, 0.0, 66.8, 0.48, 9.1, 1.02]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.0, 2.704, 0.0, 67.0, 0.48, 9.2, 1.03]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 15.9, 2.704, 0.0, 67.2, 0.49, 9.3, 1.04]
+INFO:root:i：9
+INFO:root:higheffcurrent：0.41
+INFO:root:higheffcurrent01：0.615
+INFO:root:higheffspeed：7575.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.41, 66.5, 8.27]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[67.165, 65.835]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 15.1, 2.704, 0.0, 59.9, 0.37, 6.8, 0.78]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 15.1, 2.704, 0.0, 62.3, 0.4, 7.5, 0.86]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 15.1, 2.704, 0.0, 62.5, 0.4, 7.6, 0.87]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 15.1, 2.704, 0.0, 62.8, 0.41, 7.7, 0.88]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：2.34
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 15.1, 2.34, 0.0, 65.2, 0.39, 7.7, 0.88]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 15.0, 2.34, 0.0, 66.2, 0.41, 8.1, 0.92]
+INFO:root:i：10
+INFO:root:higheffcurrent：0.32
+INFO:root:higheffcurrent01：0.48
+INFO:root:higheffspeed：6974.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.32, 67.1, 7.08]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[67.771, 66.42899999999999]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 14.1, 2.34, 0.0, 55.8, 0.29, 5.3, 0.63]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 14.0, 2.34, 0.0, 58.2, 0.31, 5.9, 0.69]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 14.0, 2.34, 0.0, 58.9, 0.31, 6.1, 0.71]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 14.0, 2.34, 0.0, 59.6, 0.32, 6.3, 0.73]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：1.764
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 14.0, 1.764, 0.0, 64.5, 0.3, 6.3, 0.73]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 14.0, 1.764, 0.0, 65.7, 0.31, 6.7, 0.77]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 14.0, 1.764, 0.0, 66.2, 0.32, 6.9, 0.79]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：1.695
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 14.0, 1.695, 0.0, 66.8, 0.31, 6.9, 0.79]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.9, 1.695, 0.0, 67.4, 0.32, 7.1, 0.81]
+INFO:root:i：11
+INFO:root:higheffcurrent：0.28
+INFO:root:higheffcurrent01：0.42
+INFO:root:higheffspeed：6538.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.28, 63.8, 6.28]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[64.438, 63.162]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.2, 1.695, 0.0, 59.8, 0.24, 5.1, 0.61]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.2, 1.695, 0.0, 63.3, 0.27, 6.0, 0.7]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.1, 1.695, 0.0, 63.9, 0.28, 6.2, 0.72]
+INFO:root:i：12
+INFO:root:higheffcurrent：0.23
+INFO:root:higheffcurrent01：0.345
+INFO:root:higheffspeed：6093.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.23, 63.2, 5.48]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[63.832, 62.568000000000005]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 12.4, 1.695, 0.0, 52.6, 0.2, 4.0, 0.49]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 12.4, 1.695, 0.0, 56.5, 0.22, 4.7, 0.56]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 12.4, 1.695, 0.0, 57.4, 0.23, 4.9, 0.58]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：1.375
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 12.4, 1.375, 0.0, 61.1, 0.21, 4.9, 0.58]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 12.3, 1.375, 0.0, 63.2, 0.23, 5.4, 0.63]
+INFO:root:控制损耗计算结果：
+[11986.0, 2.15, 14.0, '原', 1.34, 20.41, 79.6, '计算', 1.33, 20.2, 79.6]
+[11522.0, 2.789, 14.0, '原', 1.22, 18.77, 77.3, '计算', 1.23, 19.0, 77.8]
+[11031.0, 3.428, 14.0, '原', 1.12, 17.48, 75.0, '计算', 1.12, 17.6, 75.5]
+[10492.0, 4.022, 14.0, '原', 1.0, 15.75, 72.0, '计算', 1.01, 16.0, 72.6]
+[9926.0, 4.022, 14.0, '原', 0.88, 14.43, 70.9, '计算', 0.88, 14.4, 70.8]
+[9476.0, 4.231, 14.0, '原', 0.79, 13.02, 68.0, '计算', 0.79, 13.0, 68.2]
+[9045.0, 3.85, 14.0, '原', 0.69, 11.85, 67.6, '计算', 0.69, 11.8, 67.4]
+[8521.0, 3.363, 14.0, '原', 0.58, 10.42, 66.7, '计算', 0.58, 10.3, 66.4]
+[8074.0, 2.704, 14.0, '原', 0.49, 9.43, 67.7, '计算', 0.49, 9.3, 67.2]
+[7575.0, 2.34, 14.0, '原', 0.41, 8.27, 66.5, '计算', 0.41, 8.1, 66.2]
+[6974.0, 1.695, 14.0, '原', 0.32, 7.08, 67.1, '计算', 0.32, 7.1, 67.4]
+[6538.0, 1.695, 14.0, '原', 0.28, 6.28, 63.8, '计算', 0.28, 6.2, 63.9]
+[6093.0, 1.375, 14.0, '原', 0.23, 5.48, 63.2, '计算', 0.23, 5.4, 63.2]
+
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.34, 79.6, 20.41]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[11.9, 19.7977, 21.0223]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 94, 24.9, 2.15, 0.0, 76.7, 1.92, 28.2, 3.34]
+INFO:root:shaft_torque：28.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 23.5, 2.15, 0.0, 79.3, 1.44, 21.8, 2.49]
+INFO:root:shaft_torque：21.8
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 23.4, 2.15, 0.0, 79.4, 1.39, 21.1, 2.4]
+INFO:root:shaft_torque：21.1
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 23.4, 2.15, 0.0, 79.5, 1.38, 21.0, 2.39]
+INFO:root:shaft_torque：21.0
+INFO:root:turncuren：93.0
+INFO:root:PeakLineLineVoltage0 > DCBusVoltageuplimit resultlist：[24.0, 93, 23.1, 2.15, 0.0, 79.4, 1.37, 20.8, 2.39]
+INFO:root:ShaftTorque：20.8
+INFO:root:targetorque torquedownlimit resultlistt：[20.8, 19.7977, 21.0223]
+INFO:root:ShaftTorque1：20.8
+INFO:root:i：1
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.22, 77.3, 18.77]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[11.1, 18.206899999999997, 19.3331]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 97, 24.2, 2.789, 0.0, 76.5, 1.74, 26.5, 3.0]
+INFO:root:shaft_torque：26.5
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 97, 23.1, 2.789, 0.0, 77.9, 1.29, 20.0, 2.19]
+INFO:root:shaft_torque：20.0
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 97, 23.1, 2.789, 0.0, 77.9, 1.25, 19.4, 2.12]
+INFO:root:shaft_torque：19.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 97, 23.0, 2.789, 0.0, 77.9, 1.24, 19.3, 2.11]
+INFO:root:shaft_torque：19.3
+INFO:root:i：2
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.12, 75.0, 17.48]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[10.6, 16.9556, 18.0044]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 101, 23.8, 3.428, 0.0, 75.7, 1.59, 25.1, 2.69]
+INFO:root:shaft_torque：25.1
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 101, 22.9, 3.428, 0.0, 75.9, 1.17, 18.5, 1.93]
+INFO:root:shaft_torque：18.5
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 101, 22.9, 3.428, 0.0, 75.8, 1.14, 18.0, 1.88]
+INFO:root:shaft_torque：18.0
+INFO:root:i：3
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.0, 72.0, 15.75]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[9.9, 15.2775, 16.2225]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 106, 23.4, 4.022, 0.0, 74.6, 1.41, 22.9, 2.31]
+INFO:root:shaft_torque：22.9
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 106, 22.8, 4.022, 0.0, 73.3, 1.03, 16.6, 1.64]
+INFO:root:shaft_torque：16.6
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 106, 22.8, 4.022, 0.0, 73.0, 1.01, 16.2, 1.6]
+INFO:root:shaft_torque：16.2
+INFO:root:i：4
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.88, 70.9, 14.43]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[9.2, 13.9971, 14.8629]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 112, 23.2, 4.022, 0.0, 74.2, 1.24, 21.3, 2.01]
+INFO:root:shaft_torque：21.3
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 112, 22.8, 4.022, 0.0, 71.8, 0.91, 15.0, 1.4]
+INFO:root:shaft_torque：15.0
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 112, 22.8, 4.022, 0.0, 71.7, 0.9, 14.9, 1.39]
+INFO:root:shaft_torque：14.9
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 112, 22.8, 4.022, 0.0, 71.6, 0.89, 14.8, 1.38]
+INFO:root:shaft_torque：14.8
+INFO:root:i：5
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.79, 68.0, 13.02]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[8.6, 12.629399999999999, 13.4106]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 117, 22.9, 4.231, 0.0, 72.9, 1.1, 19.4, 1.74]
+INFO:root:shaft_torque：19.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 117, 22.8, 4.231, 0.0, 69.1, 0.8, 13.4, 1.2]
+INFO:root:shaft_torque：13.4
+INFO:root:i：6
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.69, 67.6, 11.85]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[7.9, 11.494499999999999, 12.2055]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 123, 22.9, 3.85, 0.0, 73.0, 0.96, 17.8, 1.51]
+INFO:root:shaft_torque：17.8
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 123, 22.9, 3.85, 0.0, 68.6, 0.7, 12.2, 1.04]
+INFO:root:shaft_torque：12.2
+INFO:root:i：7
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.58, 66.7, 10.42]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[7.0, 10.1074, 10.7326]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 131, 22.9, 3.363, 0.0, 73.2, 0.81, 15.9, 1.26]
+INFO:root:shaft_torque：15.9
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 131, 23.1, 3.363, 0.0, 67.5, 0.58, 10.6, 0.85]
+INFO:root:shaft_torque：10.6
+INFO:root:i：8
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.49, 67.7, 9.43]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[6.1, 9.1471, 9.7129]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 138, 22.9, 2.704, 0.0, 74.5, 0.69, 14.7, 1.1]
+INFO:root:shaft_torque：14.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 138, 23.2, 2.704, 0.0, 68.4, 0.49, 9.6, 0.73]
+INFO:root:shaft_torque：9.6
+INFO:root:i：9
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.41, 66.5, 8.27]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[5.4, 8.021899999999999, 8.5181]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 147, 22.9, 2.34, 0.0, 74.3, 0.58, 12.9, 0.91]
+INFO:root:shaft_torque：12.9
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 147, 23.3, 2.34, 0.0, 67.2, 0.41, 8.3, 0.6]
+INFO:root:shaft_torque：8.3
+INFO:root:turncuren：146.0
+INFO:root:PeakLineLineVoltage0 > DCBusVoltageuplimit resultlist：[24.0, 146, 23.2, 2.34, 0.0, 67.1, 0.41, 8.2, 0.6]
+INFO:root:ShaftTorque：8.2
+INFO:root:targetorque torquedownlimit resultlistt：[8.2, 8.021899999999999, 8.5181]
+INFO:root:ShaftTorque1：8.2
+INFO:root:i：10
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.32, 67.1, 7.08]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[4.4, 6.8675999999999995, 7.292400000000001]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 159, 22.9, 1.695, 0.0, 76.0, 0.46, 11.5, 0.75]
+INFO:root:shaft_torque：11.5
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 159, 23.4, 1.695, 0.0, 68.2, 0.32, 7.1, 0.48]
+INFO:root:shaft_torque：7.1
+INFO:root:turncuren：158.0
+INFO:root:PeakLineLineVoltage0 > DCBusVoltageuplimit resultlist：[24.0, 158, 23.2, 1.695, 0.0, 68.0, 0.32, 7.1, 0.48]
+INFO:root:ShaftTorque：7.1
+INFO:root:targetorque torquedownlimit resultlistt：[7.1, 6.8675999999999995, 7.292400000000001]
+INFO:root:ShaftTorque1：7.1
+INFO:root:i：11
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.28, 63.8, 6.28]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[4.1, 6.0916, 6.468400000000001]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 169, 23.0, 1.695, 0.0, 73.5, 0.39, 10.1, 0.62]
+INFO:root:shaft_torque：10.1
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 169, 23.4, 1.695, 0.0, 64.6, 0.27, 6.2, 0.4]
+INFO:root:shaft_torque：6.2
+INFO:root:turncuren：168.0
+INFO:root:PeakLineLineVoltage0 > DCBusVoltageuplimit resultlist：[24.0, 168, 23.3, 1.695, 0.0, 64.4, 0.27, 6.2, 0.4]
+INFO:root:ShaftTorque：6.2
+INFO:root:targetorque torquedownlimit resultlistt：[6.2, 6.0916, 6.468400000000001]
+INFO:root:ShaftTorque1：6.2
+INFO:root:turncuren：167.0
+INFO:root:PeakLineLineVoltage0 > DCBusVoltageuplimit resultlist：[24.0, 167, 23.2, 1.695, 0.0, 64.3, 0.27, 6.1, 0.4]
+INFO:root:ShaftTorque：6.1
+INFO:root:targetorque torquedownlimit resultlistt：[6.1, 6.0916, 6.468400000000001]
+INFO:root:ShaftTorque1：6.1
+INFO:root:i：12
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.23, 63.2, 5.48]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[3.4, 5.3156, 5.644400000000001]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 179, 22.8, 1.375, 0.0, 74.2, 0.33, 9.3, 0.54]
+INFO:root:shaft_torque：9.3
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 179, 23.2, 1.375, 0.0, 63.8, 0.22, 5.3, 0.33]
+INFO:root:shaft_torque：5.3
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 179, 23.2, 1.375, 0.0, 64.5, 0.23, 5.5, 0.34]
+INFO:root:shaft_torque：5.5
+INFO:root:全开匝数计算结果：
+[higheffspeed, turncuren, ConverterLosses, 原, higheffcurrent, highefftorque, higheffmotoreff, 计算, PeakLineLineVoltage0, ShaftTorque] 
+
+[11986.0, 93.0, 2.15, 14.0, '原', 1.34, 20.41, 79.6, '计算', 23.1, 20.8]
+[11522.0, 97.0, 2.789, 14.0, '原', 1.22, 18.77, 77.3, '计算', 23.0, 19.3]
+[11031.0, 101.0, 3.428, 14.0, '原', 1.12, 17.48, 75.0, '计算', 22.9, 18.0]
+[10492.0, 106.0, 4.022, 14.0, '原', 1.0, 15.75, 72.0, '计算', 22.8, 16.2]
+[9926.0, 112.0, 4.022, 14.0, '原', 0.88, 14.43, 70.9, '计算', 22.8, 14.8]
+[9476.0, 117.0, 4.231, 14.0, '原', 0.79, 13.02, 68.0, '计算', 22.8, 13.4]
+[9045.0, 123.0, 3.85, 14.0, '原', 0.69, 11.85, 67.6, '计算', 22.9, 12.2]
+[8521.0, 131.0, 3.363, 14.0, '原', 0.58, 10.42, 66.7, '计算', 23.1, 10.6]
+[8074.0, 138.0, 2.704, 14.0, '原', 0.49, 9.43, 67.7, '计算', 23.2, 9.6]
+[7575.0, 146.0, 2.34, 14.0, '原', 0.41, 8.27, 66.5, '计算', 23.2, 8.2]
+[6974.0, 158.0, 1.695, 14.0, '原', 0.32, 7.08, 67.1, '计算', 23.2, 7.1]
+[6538.0, 167.0, 1.695, 14.0, '原', 0.28, 6.28, 63.8, '计算', 23.2, 6.1]
+[6093.0, 179.0, 1.375, 14.0, '原', 0.23, 5.48, 63.2, '计算', 23.2, 5.5]
+
+INFO:root:i：0
+INFO:root:i：0
+INFO:root:higheffcurrent：1.67
+INFO:root:higheffcurrent01：2.505
+INFO:root:higheffspeed：9706.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.67, 82.7, 32.61]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[83.527, 81.873]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 21.0, 1.375, 0.0, 76.6, 1.67, 30.2, 3.54]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：11.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4008
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 21.2, 0.401, 0.0, 80.4, 1.7, 32.3, 3.54]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.401, 0.0, 80.5, 1.69, 32.1, 3.51]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.401, 0.0, 80.6, 1.68, 32.0, 3.5]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：8.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 22.5, 0.403, 0.0, 80.4, 1.76, 33.4, 3.5]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.2, 0.403, 0.0, 81.0, 1.68, 32.2, 3.35]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：5.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 22.5, 0.403, 0.0, 82.0, 1.73, 33.5, 3.35]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.4, 0.403, 0.0, 82.3, 1.69, 32.8, 3.27]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.3, 0.403, 0.0, 82.3, 1.68, 32.7, 3.26]
+INFO:root:i：1
+INFO:root:higheffcurrent：1.67
+INFO:root:higheffcurrent01：2.505
+INFO:root:higheffspeed：9702.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.67, 82.5, 32.52]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[83.325, 81.675]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 21.3, 0.403, 0.0, 77.9, 1.69, 31.1, 3.67]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 78.0, 1.69, 31.0, 3.66]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 78.0, 1.68, 31.0, 3.65]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：11.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 21.4, 0.403, 0.0, 79.9, 1.76, 33.2, 3.65]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.1, 0.403, 0.0, 80.5, 1.68, 32.0, 3.5]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：8.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 22.5, 0.403, 0.0, 80.4, 1.76, 33.4, 3.5]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.2, 0.403, 0.0, 81.0, 1.68, 32.2, 3.35]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：5.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 22.5, 0.403, 0.0, 82.0, 1.73, 33.5, 3.35]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.3, 0.403, 0.0, 82.3, 1.69, 32.8, 3.27]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.3, 0.403, 0.0, 82.3, 1.68, 32.7, 3.26]
+INFO:root:i：2
+INFO:root:higheffcurrent：1.66
+INFO:root:higheffcurrent01：2.49
+INFO:root:higheffspeed：9705.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.66, 82.7, 32.4]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[83.527, 81.873]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 78.0, 1.68, 31.0, 3.65]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 78.1, 1.68, 30.9, 3.64]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 78.1, 1.67, 30.8, 3.63]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：11.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4008
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 21.4, 0.401, 0.0, 80.0, 1.75, 33.0, 3.63]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.1, 0.401, 0.0, 80.6, 1.67, 31.8, 3.48]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：8.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4008
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 22.5, 0.401, 0.0, 80.5, 1.75, 33.2, 3.48]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.1, 0.401, 0.0, 81.1, 1.67, 32.0, 3.33]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：5.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4008
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 22.5, 0.401, 0.0, 82.0, 1.72, 33.3, 3.33]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.3, 0.401, 0.0, 82.4, 1.68, 32.6, 3.25]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.3, 0.401, 0.0, 82.4, 1.67, 32.5, 3.24]
+INFO:root:i：3
+INFO:root:higheffcurrent：1.67
+INFO:root:higheffcurrent01：2.505
+INFO:root:higheffspeed：9706.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.67, 81.8, 32.26]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[82.618, 80.982]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 21.3, 0.401, 0.0, 77.9, 1.69, 31.1, 3.67]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.401, 0.0, 78.0, 1.69, 31.0, 3.66]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.401, 0.0, 78.0, 1.68, 31.0, 3.65]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：11.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 21.5, 0.403, 0.0, 79.9, 1.76, 33.2, 3.65]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 80.5, 1.68, 32.0, 3.5]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：8.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 22.5, 0.403, 0.0, 80.4, 1.76, 33.4, 3.5]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.2, 0.403, 0.0, 81.0, 1.68, 32.2, 3.35]
+INFO:root:i：4
+INFO:root:higheffcurrent：1.67
+INFO:root:higheffcurrent01：2.505
+INFO:root:higheffspeed：9707.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.67, 81.4, 32.1]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[82.21400000000001, 80.586]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 21.3, 0.403, 0.0, 77.9, 1.69, 31.1, 3.67]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 78.0, 1.69, 31.0, 3.66]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 78.0, 1.68, 31.0, 3.65]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：11.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 21.5, 0.403, 0.0, 79.9, 1.76, 33.2, 3.65]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 21.2, 0.403, 0.0, 80.5, 1.68, 32.0, 3.5]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：8.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.4032
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 22.5, 0.403, 0.0, 80.4, 1.76, 33.4, 3.5]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 22.2, 0.403, 0.0, 81.0, 1.68, 32.2, 3.35]
+INFO:root:i：5
+INFO:root:higheffcurrent：1.56
+INFO:root:higheffcurrent01：2.34
+INFO:root:higheffspeed：9479.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.56, 81.3, 30.69]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[82.113, 80.487]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 20.5, 0.403, 0.0, 78.6, 1.58, 30.0, 3.51]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 20.5, 0.403, 0.0, 78.7, 1.57, 30.0, 3.5]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：11.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.3768
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 20.7, 0.377, 0.0, 80.5, 1.65, 32.0, 3.5]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 20.4, 0.377, 0.0, 81.3, 1.57, 30.8, 3.34]
+INFO:root:i：6
+INFO:root:higheffcurrent：1.36
+INFO:root:higheffcurrent01：2.04
+INFO:root:higheffspeed：9040.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.36, 82.0, 28.28]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[82.82000000000001, 81.17999999999999]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 19.0, 0.377, 0.0, 80.1, 1.37, 27.8, 3.19]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit PhaseAdvance01：11.0
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.32880000000000004
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit resultlist：[24.0, 94, 19.3, 0.329, 0.0, 81.9, 1.43, 29.6, 3.19]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 19.1, 0.329, 0.0, 82.4, 1.37, 28.6, 3.06]
+INFO:root:i：7
+INFO:root:higheffcurrent：1.13
+INFO:root:higheffcurrent01：1.695
+INFO:root:higheffspeed：8518.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.13, 82.4, 25.07]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[83.224, 81.57600000000001]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 17.5, 0.329, 0.0, 81.6, 1.14, 25.0, 2.83]
+INFO:root:i：8
+INFO:root:higheffcurrent：0.97
+INFO:root:higheffcurrent01：1.455
+INFO:root:higheffspeed：8080.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.97, 81.9, 22.57]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[82.71900000000001, 81.081]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 16.4, 0.329, 0.0, 82.4, 0.99, 23.2, 2.59]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 16.4, 0.329, 0.0, 82.5, 0.98, 22.9, 2.56]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 16.4, 0.329, 0.0, 82.6, 0.97, 22.8, 2.55]
+INFO:root:i：9
+INFO:root:higheffcurrent：0.8
+INFO:root:higheffcurrent01：1.2
+INFO:root:higheffspeed：7568.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.8, 81.5, 19.77]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[82.315, 80.685]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 15.2, 0.329, 0.0, 83.4, 0.81, 20.4, 2.26]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 15.1, 0.329, 0.0, 83.5, 0.8, 20.3, 2.25]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.713
+INFO:root:SystemEfficiency > higheffmotoreffuplimit resultlist：[24.0, 94, 15.1, 0.713, 0.0, 81.8, 0.82, 20.3, 2.25]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 15.1, 0.713, 0.0, 81.9, 0.81, 20.1, 2.22]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 15.1, 0.713, 0.0, 81.9, 0.81, 20.0, 2.21]
+INFO:root:MeanDCSupplyCurrent > higheffcurrentuplimit resultlist：[24.0, 94, 15.1, 0.713, 0.0, 82.0, 0.8, 19.9, 2.2]
+INFO:root:i：10
+INFO:root:higheffcurrent：0.63
+INFO:root:higheffcurrent01：0.945
+INFO:root:higheffspeed：6973.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.63, 81.2, 16.85]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[82.012, 80.388]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.8, 0.713, 0.0, 82.2, 0.62, 16.8, 1.84]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.8, 0.713, 0.0, 82.2, 0.62, 16.9, 1.85]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.8, 0.713, 0.0, 82.2, 0.63, 17.0, 1.86]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：0.864
+INFO:root:SystemEfficiency > higheffmotoreffuplimit resultlist：[24.0, 94, 13.8, 0.864, 0.0, 81.4, 0.63, 17.0, 1.86]
+INFO:root:i：11
+INFO:root:higheffcurrent：0.53
+INFO:root:higheffcurrent01：0.795
+INFO:root:higheffspeed：6535.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.53, 79.4, 14.8]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[80.194, 78.60600000000001]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 12.9, 0.864, 0.0, 80.9, 0.5, 14.1, 1.54]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.0, 0.864, 0.0, 80.9, 0.52, 14.8, 1.62]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 13.0, 0.864, 0.0, 80.9, 0.53, 14.9, 1.63]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：1.055
+INFO:root:SystemEfficiency > higheffmotoreffuplimit resultlist：[24.0, 94, 13.0, 1.055, 0.0, 79.7, 0.53, 14.9, 1.63]
+INFO:root:i：12
+INFO:root:higheffcurrent：0.44
+INFO:root:higheffcurrent01：0.66
+INFO:root:higheffspeed：6094.0
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.44, 77.4, 12.84]
+INFO:root:higheffmotoreffuplimit, higheffmotoreffdownlimit[78.174, 76.626]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 12.1, 1.055, 0.0, 78.1, 0.41, 12.0, 1.31]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 12.1, 1.055, 0.0, 78.5, 0.43, 12.7, 1.39]
+INFO:root:MeanDCSupplyCurrent < higheffcurrentdownlimit resultlist：[24.0, 94, 12.1, 1.055, 0.0, 78.6, 0.44, 12.9, 1.41]
+INFO:root:SystemEfficiency < higheffmotoreffdownlimit ConverterLosses：1.182
+INFO:root:SystemEfficiency > higheffmotoreffuplimit resultlist：[24.0, 94, 12.1, 1.182, 0.0, 77.6, 0.44, 12.9, 1.41]
+INFO:root:控制损耗计算结果：
+[9706.0, 0.403, 5.0, '原', 1.67, 32.61, 82.7, '计算', 1.68, 32.7, 82.3]
+[9702.0, 0.403, 5.0, '原', 1.67, 32.52, 82.5, '计算', 1.68, 32.7, 82.3]
+[9705.0, 0.401, 5.0, '原', 1.66, 32.4, 82.7, '计算', 1.67, 32.5, 82.4]
+[9706.0, 0.403, 8.0, '原', 1.67, 32.26, 81.8, '计算', 1.68, 32.2, 81.0]
+[9707.0, 0.403, 8.0, '原', 1.67, 32.1, 81.4, '计算', 1.68, 32.2, 81.0]
+[9479.0, 0.377, 11.0, '原', 1.56, 30.69, 81.3, '计算', 1.57, 30.8, 81.3]
+[9040.0, 0.329, 11.0, '原', 1.36, 28.28, 82.0, '计算', 1.37, 28.6, 82.4]
+[8518.0, 0.329, 14.0, '原', 1.13, 25.07, 82.4, '计算', 1.14, 25.0, 81.6]
+[8080.0, 0.329, 14.0, '原', 0.97, 22.57, 81.9, '计算', 0.97, 22.8, 82.6]
+[7568.0, 0.713, 14.0, '原', 0.8, 19.77, 81.5, '计算', 0.8, 19.9, 82.0]
+[6973.0, 0.864, 14.0, '原', 0.63, 16.85, 81.2, '计算', 0.63, 17.0, 81.4]
+[6535.0, 1.055, 14.0, '原', 0.53, 14.8, 79.4, '计算', 0.53, 14.9, 79.7]
+[6094.0, 1.182, 14.0, '原', 0.44, 12.84, 77.4, '计算', 0.44, 12.9, 77.6]
+
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.67, 82.7, 32.61]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[17.3, 31.6317, 33.588300000000004]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 94, 25.6, 0.403, 0.0, 76.7, 2.41, 43.7, 4.58]
+INFO:root:shaft_torque：43.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.9, 0.403, 0.0, 81.3, 1.82, 35.0, 3.52]
+INFO:root:shaft_torque：35.0
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.6, 0.403, 0.0, 81.8, 1.75, 33.7, 3.38]
+INFO:root:shaft_torque：33.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.6, 0.403, 0.0, 81.9, 1.74, 33.7, 3.37]
+INFO:root:shaft_torque：33.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.403, 0.0, 81.9, 1.74, 33.6, 3.36]
+INFO:root:shaft_torque：33.6
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.403, 0.0, 82.0, 1.73, 33.5, 3.35]
+INFO:root:shaft_torque：33.5
+INFO:root:i：1
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.67, 82.5, 32.52]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[17.3, 31.544400000000003, 33.4956]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 94, 25.6, 0.403, 0.0, 76.7, 2.41, 43.6, 4.57]
+INFO:root:shaft_torque：43.6
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.9, 0.403, 0.0, 81.3, 1.82, 34.9, 3.51]
+INFO:root:shaft_torque：34.9
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.6, 0.403, 0.0, 81.9, 1.74, 33.7, 3.37]
+INFO:root:shaft_torque：33.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.403, 0.0, 82.0, 1.73, 33.5, 3.35]
+INFO:root:shaft_torque：33.5
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.403, 0.0, 82.0, 1.72, 33.4, 3.34]
+INFO:root:shaft_torque：33.4
+INFO:root:i：2
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.66, 82.7, 32.4]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[17.2, 31.427999999999997, 33.372]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 94, 25.5, 0.401, 0.0, 76.8, 2.39, 43.5, 4.55]
+INFO:root:shaft_torque：43.5
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.8, 0.401, 0.0, 81.4, 1.81, 34.7, 3.49]
+INFO:root:shaft_torque：34.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.401, 0.0, 81.9, 1.74, 33.6, 3.36]
+INFO:root:shaft_torque：33.6
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.401, 0.0, 82.0, 1.72, 33.4, 3.34]
+INFO:root:shaft_torque：33.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.401, 0.0, 82.0, 1.72, 33.3, 3.33]
+INFO:root:shaft_torque：33.3
+INFO:root:i：3
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.67, 81.8, 32.26]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[16.7, 31.292199999999998, 33.2278]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 94, 25.8, 0.403, 0.0, 75.0, 2.4, 42.6, 4.69]
+INFO:root:shaft_torque：42.6
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.9, 0.403, 0.0, 79.7, 1.85, 34.7, 3.66]
+INFO:root:shaft_torque：34.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.403, 0.0, 80.4, 1.76, 33.4, 3.5]
+INFO:root:shaft_torque：33.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.403, 0.0, 80.5, 1.75, 33.2, 3.48]
+INFO:root:shaft_torque：33.2
+INFO:root:i：4
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.67, 81.4, 32.1]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[16.7, 31.137, 33.063]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 94, 25.8, 0.403, 0.0, 75.1, 2.39, 42.4, 4.67]
+INFO:root:shaft_torque：42.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.9, 0.403, 0.0, 79.8, 1.84, 34.6, 3.64]
+INFO:root:shaft_torque：34.6
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.5, 0.403, 0.0, 80.5, 1.75, 33.2, 3.48]
+INFO:root:shaft_torque：33.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.4, 0.403, 0.0, 80.5, 1.74, 33.2, 3.47]
+INFO:root:shaft_torque：33.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.4, 0.403, 0.0, 80.5, 1.74, 33.1, 3.46]
+INFO:root:shaft_torque：33.1
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 94, 22.4, 0.403, 0.0, 80.6, 1.73, 33.0, 3.45]
+INFO:root:shaft_torque：33.0
+INFO:root:i：5
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.56, 81.3, 30.69]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[15.3, 29.7693, 31.6107]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 96, 23.8, 0.377, 0.0, 75.2, 2.22, 40.5, 4.55]
+INFO:root:shaft_torque：40.5
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 96, 21.4, 0.377, 0.0, 80.1, 1.71, 33.0, 3.55]
+INFO:root:shaft_torque：33.0
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 96, 21.1, 0.377, 0.0, 80.8, 1.63, 31.8, 3.4]
+INFO:root:shaft_torque：31.8
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 96, 21.0, 0.377, 0.0, 80.9, 1.62, 31.7, 3.38]
+INFO:root:shaft_torque：31.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 96, 21.0, 0.377, 0.0, 81.0, 1.61, 31.6, 3.37]
+INFO:root:shaft_torque：31.6
+INFO:root:turncuren：97.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 97, 21.3, 0.377, 0.0, 80.9, 1.63, 31.9, 3.37]
+INFO:root:ShaftTorque：31.9
+INFO:root:targetorque torquedownlimit resultlistt：[31.9, 29.7693, 31.6107]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 97, 21.2, 0.377, 0.0, 81.0, 1.61, 31.6, 3.34]
+INFO:root:shaft_torque：31.6
+INFO:root:ShaftTorque1：31.6
+INFO:root:ShaftTorque：31.6
+INFO:root:PeakLineLineVoltage0：21.2
+INFO:root:turncuren：98.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 98, 21.5, 0.377, 0.0, 80.9, 1.63, 31.9, 3.34]
+INFO:root:ShaftTorque：31.9
+INFO:root:targetorque torquedownlimit resultlistt：[31.9, 29.7693, 31.6107]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 98, 21.4, 0.377, 0.0, 81.1, 1.62, 31.7, 3.31]
+INFO:root:shaft_torque：31.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 98, 21.4, 0.377, 0.0, 81.1, 1.61, 31.6, 3.3]
+INFO:root:shaft_torque：31.6
+INFO:root:ShaftTorque1：31.6
+INFO:root:ShaftTorque：31.6
+INFO:root:PeakLineLineVoltage0：21.4
+INFO:root:turncuren：99.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 99, 21.7, 0.377, 0.0, 81.0, 1.63, 31.9, 3.3]
+INFO:root:ShaftTorque：31.9
+INFO:root:targetorque torquedownlimit resultlistt：[31.9, 29.7693, 31.6107]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 99, 21.6, 0.377, 0.0, 81.2, 1.61, 31.6, 3.27]
+INFO:root:shaft_torque：31.6
+INFO:root:ShaftTorque1：31.6
+INFO:root:ShaftTorque：31.6
+INFO:root:PeakLineLineVoltage0：21.6
+INFO:root:turncuren：100.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 100, 21.9, 0.377, 0.0, 81.1, 1.63, 31.9, 3.27]
+INFO:root:ShaftTorque：31.9
+INFO:root:targetorque torquedownlimit resultlistt：[31.9, 29.7693, 31.6107]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 100, 21.8, 0.377, 0.0, 81.2, 1.61, 31.6, 3.24]
+INFO:root:shaft_torque：31.6
+INFO:root:ShaftTorque1：31.6
+INFO:root:ShaftTorque：31.6
+INFO:root:PeakLineLineVoltage0：21.8
+INFO:root:turncuren：101.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 101, 22.1, 0.377, 0.0, 81.2, 1.63, 31.9, 3.24]
+INFO:root:ShaftTorque：31.9
+INFO:root:targetorque torquedownlimit resultlistt：[31.9, 29.7693, 31.6107]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 101, 22.0, 0.377, 0.0, 81.3, 1.61, 31.6, 3.21]
+INFO:root:shaft_torque：31.6
+INFO:root:ShaftTorque1：31.6
+INFO:root:ShaftTorque：31.6
+INFO:root:PeakLineLineVoltage0：22.0
+INFO:root:turncuren：102.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 102, 22.3, 0.377, 0.0, 81.2, 1.63, 31.9, 3.21]
+INFO:root:ShaftTorque：31.9
+INFO:root:targetorque torquedownlimit resultlistt：[31.9, 29.7693, 31.6107]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 102, 22.3, 0.377, 0.0, 81.4, 1.61, 31.7, 3.18]
+INFO:root:shaft_torque：31.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 102, 22.2, 0.377, 0.0, 81.4, 1.6, 31.6, 3.17]
+INFO:root:shaft_torque：31.6
+INFO:root:ShaftTorque1：31.6
+INFO:root:ShaftTorque：31.6
+INFO:root:PeakLineLineVoltage0：22.2
+INFO:root:turncuren：103.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 103, 22.5, 0.377, 0.0, 81.3, 1.62, 31.8, 3.17]
+INFO:root:ShaftTorque：31.8
+INFO:root:targetorque torquedownlimit resultlistt：[31.8, 29.7693, 31.6107]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 103, 22.5, 0.377, 0.0, 81.4, 1.61, 31.7, 3.15]
+INFO:root:shaft_torque：31.7
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 103, 22.4, 0.377, 0.0, 81.5, 1.6, 31.6, 3.14]
+INFO:root:shaft_torque：31.6
+INFO:root:ShaftTorque1：31.6
+INFO:root:ShaftTorque：31.6
+INFO:root:PeakLineLineVoltage0：22.4
+INFO:root:i：6
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.36, 82.0, 28.28]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[15.0, 27.4316, 29.128400000000003]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 108, 24.5, 0.329, 0.0, 78.1, 1.93, 38.2, 3.73]
+INFO:root:shaft_torque：38.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 108, 22.1, 0.329, 0.0, 82.6, 1.45, 30.2, 2.84]
+INFO:root:shaft_torque：30.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 108, 21.9, 0.329, 0.0, 83.0, 1.39, 29.3, 2.74]
+INFO:root:shaft_torque：29.3
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 108, 21.9, 0.329, 0.0, 83.1, 1.38, 29.1, 2.72]
+INFO:root:shaft_torque：29.1
+INFO:root:turncuren：109.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 109, 22.1, 0.329, 0.0, 83.1, 1.39, 29.3, 2.72]
+INFO:root:ShaftTorque：29.3
+INFO:root:targetorque torquedownlimit resultlistt：[29.3, 27.4316, 29.128400000000003]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 109, 22.1, 0.329, 0.0, 83.2, 1.38, 29.2, 2.7]
+INFO:root:shaft_torque：29.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 109, 22.1, 0.329, 0.0, 83.2, 1.38, 29.1, 2.69]
+INFO:root:shaft_torque：29.1
+INFO:root:ShaftTorque1：29.1
+INFO:root:ShaftTorque：29.1
+INFO:root:PeakLineLineVoltage0：22.1
+INFO:root:turncuren：110.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 110, 22.3, 0.329, 0.0, 83.2, 1.39, 29.3, 2.69]
+INFO:root:ShaftTorque：29.3
+INFO:root:targetorque torquedownlimit resultlistt：[29.3, 27.4316, 29.128400000000003]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 110, 22.3, 0.329, 0.0, 83.2, 1.38, 29.1, 2.67]
+INFO:root:shaft_torque：29.1
+INFO:root:ShaftTorque1：29.1
+INFO:root:ShaftTorque：29.1
+INFO:root:PeakLineLineVoltage0：22.3
+INFO:root:turncuren：111.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 111, 22.5, 0.329, 0.0, 83.2, 1.39, 29.3, 2.67]
+INFO:root:ShaftTorque：29.3
+INFO:root:targetorque torquedownlimit resultlistt：[29.3, 27.4316, 29.128400000000003]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 111, 22.5, 0.329, 0.0, 83.3, 1.38, 29.1, 2.65]
+INFO:root:shaft_torque：29.1
+INFO:root:ShaftTorque1：29.1
+INFO:root:ShaftTorque：29.1
+INFO:root:PeakLineLineVoltage0：22.5
+INFO:root:i：7
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[1.13, 82.4, 25.07]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[12.8, 24.317899999999998, 25.822100000000002]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 118, 24.5, 0.329, 0.0, 77.9, 1.63, 34.2, 3.22]
+INFO:root:shaft_torque：34.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 118, 22.1, 0.329, 0.0, 82.2, 1.21, 26.8, 2.43]
+INFO:root:shaft_torque：26.8
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 118, 21.9, 0.329, 0.0, 82.7, 1.16, 25.9, 2.34]
+INFO:root:shaft_torque：25.9
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 118, 21.8, 0.329, 0.0, 82.7, 1.16, 25.8, 2.33]
+INFO:root:shaft_torque：25.8
+INFO:root:turncuren：119.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 119, 22.1, 0.329, 0.0, 82.7, 1.17, 26.0, 2.33]
+INFO:root:ShaftTorque：26.0
+INFO:root:targetorque torquedownlimit resultlistt：[26.0, 24.317899999999998, 25.822100000000002]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 119, 22.0, 0.329, 0.0, 82.8, 1.16, 25.8, 2.31]
+INFO:root:shaft_torque：25.8
+INFO:root:ShaftTorque1：25.8
+INFO:root:ShaftTorque：25.8
+INFO:root:PeakLineLineVoltage0：22.0
+INFO:root:turncuren：120.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 120, 22.2, 0.329, 0.0, 82.7, 1.17, 26.0, 2.31]
+INFO:root:ShaftTorque：26.0
+INFO:root:targetorque torquedownlimit resultlistt：[26.0, 24.317899999999998, 25.822100000000002]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 120, 22.2, 0.329, 0.0, 82.8, 1.16, 25.8, 2.29]
+INFO:root:shaft_torque：25.8
+INFO:root:ShaftTorque1：25.8
+INFO:root:ShaftTorque：25.8
+INFO:root:PeakLineLineVoltage0：22.2
+INFO:root:turncuren：121.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 121, 22.4, 0.329, 0.0, 82.8, 1.17, 26.0, 2.29]
+INFO:root:ShaftTorque：26.0
+INFO:root:targetorque torquedownlimit resultlistt：[26.0, 24.317899999999998, 25.822100000000002]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 121, 22.4, 0.329, 0.0, 82.9, 1.16, 25.8, 2.27]
+INFO:root:shaft_torque：25.8
+INFO:root:ShaftTorque1：25.8
+INFO:root:ShaftTorque：25.8
+INFO:root:PeakLineLineVoltage0：22.4
+INFO:root:i：8
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.97, 81.9, 22.57]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[11.9, 21.8929, 23.2471]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 128, 24.1, 0.329, 0.0, 80.1, 1.39, 31.5, 2.68]
+INFO:root:shaft_torque：31.5
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 128, 22.1, 0.329, 0.0, 84.0, 1.01, 24.0, 1.98]
+INFO:root:shaft_torque：24.0
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 128, 22.0, 0.329, 0.0, 84.3, 0.98, 23.4, 1.92]
+INFO:root:shaft_torque：23.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 128, 22.0, 0.329, 0.0, 84.3, 0.97, 23.2, 1.91]
+INFO:root:shaft_torque：23.2
+INFO:root:turncuren：129.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 129, 22.2, 0.329, 0.0, 84.3, 0.98, 23.4, 1.91]
+INFO:root:ShaftTorque：23.4
+INFO:root:targetorque torquedownlimit resultlistt：[23.4, 21.8929, 23.2471]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 129, 22.1, 0.329, 0.0, 84.3, 0.97, 23.3, 1.9]
+INFO:root:shaft_torque：23.3
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 129, 22.1, 0.329, 0.0, 84.4, 0.97, 23.2, 1.89]
+INFO:root:shaft_torque：23.2
+INFO:root:ShaftTorque1：23.2
+INFO:root:ShaftTorque：23.2
+INFO:root:PeakLineLineVoltage0：22.1
+INFO:root:turncuren：130.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 130, 22.3, 0.329, 0.0, 84.4, 0.98, 23.4, 1.89]
+INFO:root:ShaftTorque：23.4
+INFO:root:targetorque torquedownlimit resultlistt：[23.4, 21.8929, 23.2471]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 130, 22.3, 0.329, 0.0, 84.4, 0.97, 23.2, 1.88]
+INFO:root:shaft_torque：23.2
+INFO:root:ShaftTorque1：23.2
+INFO:root:ShaftTorque：23.2
+INFO:root:PeakLineLineVoltage0：22.3
+INFO:root:turncuren：131.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 131, 22.5, 0.329, 0.0, 84.4, 0.98, 23.4, 1.88]
+INFO:root:ShaftTorque：23.4
+INFO:root:targetorque torquedownlimit resultlistt：[23.4, 21.8929, 23.2471]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 131, 22.5, 0.329, 0.0, 84.4, 0.97, 23.3, 1.87]
+INFO:root:shaft_torque：23.3
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 131, 22.4, 0.329, 0.0, 84.5, 0.97, 23.2, 1.86]
+INFO:root:shaft_torque：23.2
+INFO:root:ShaftTorque1：23.2
+INFO:root:ShaftTorque：23.2
+INFO:root:PeakLineLineVoltage0：22.4
+INFO:root:i：9
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.8, 81.5, 19.77]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[10.7, 19.1769, 20.3631]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 140, 23.6, 0.713, 0.0, 81.3, 1.15, 28.2, 2.15]
+INFO:root:shaft_torque：28.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 140, 22.2, 0.713, 0.0, 83.9, 0.82, 20.9, 1.55]
+INFO:root:shaft_torque：20.9
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 140, 22.1, 0.713, 0.0, 84.0, 0.8, 20.3, 1.51]
+INFO:root:shaft_torque：20.3
+INFO:root:turncuren：141.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 141, 22.3, 0.713, 0.0, 84.0, 0.8, 20.5, 1.51]
+INFO:root:ShaftTorque：20.5
+INFO:root:targetorque torquedownlimit resultlistt：[20.5, 19.1769, 20.3631]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 141, 22.3, 0.713, 0.0, 84.0, 0.8, 20.3, 1.5]
+INFO:root:shaft_torque：20.3
+INFO:root:ShaftTorque1：20.3
+INFO:root:ShaftTorque：20.3
+INFO:root:PeakLineLineVoltage0：22.3
+INFO:root:turncuren：142.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 142, 22.4, 0.713, 0.0, 84.0, 0.8, 20.5, 1.5]
+INFO:root:ShaftTorque：20.5
+INFO:root:targetorque torquedownlimit resultlistt：[20.5, 19.1769, 20.3631]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 142, 22.4, 0.713, 0.0, 84.1, 0.8, 20.4, 1.49]
+INFO:root:shaft_torque：20.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 142, 22.4, 0.713, 0.0, 84.1, 0.79, 20.2, 1.48]
+INFO:root:shaft_torque：20.2
+INFO:root:ShaftTorque1：20.2
+INFO:root:ShaftTorque：20.2
+INFO:root:PeakLineLineVoltage0：22.4
+INFO:root:i：10
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.63, 81.2, 16.85]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[9.3, 16.3445, 17.355500000000003]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 154, 23.0, 0.864, 0.0, 82.5, 0.9, 24.4, 1.66]
+INFO:root:shaft_torque：24.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 154, 22.2, 0.864, 0.0, 83.6, 0.64, 17.6, 1.18]
+INFO:root:shaft_torque：17.6
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 154, 22.2, 0.864, 0.0, 83.6, 0.63, 17.3, 1.16]
+INFO:root:shaft_torque：17.3
+INFO:root:turncuren：155.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 155, 22.3, 0.864, 0.0, 83.7, 0.63, 17.4, 1.16]
+INFO:root:ShaftTorque：17.4
+INFO:root:targetorque torquedownlimit resultlistt：[17.4, 16.3445, 17.355500000000003]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 155, 22.3, 0.864, 0.0, 83.7, 0.63, 17.3, 1.15]
+INFO:root:shaft_torque：17.3
+INFO:root:ShaftTorque1：17.3
+INFO:root:ShaftTorque：17.3
+INFO:root:PeakLineLineVoltage0：22.3
+INFO:root:turncuren：156.0
+INFO:root:PeakLineLineVoltage0 < DCBusVoltageuplimit resultlist：[24.0, 156, 22.5, 0.864, 0.0, 83.7, 0.63, 17.4, 1.15]
+INFO:root:ShaftTorque：17.4
+INFO:root:targetorque torquedownlimit resultlistt：[17.4, 16.3445, 17.355500000000003]
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 156, 22.5, 0.864, 0.0, 83.7, 0.63, 17.3, 1.14]
+INFO:root:shaft_torque：17.3
+INFO:root:ShaftTorque1：17.3
+INFO:root:ShaftTorque：17.3
+INFO:root:PeakLineLineVoltage0：22.5
+INFO:root:i：11
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.53, 79.4, 14.8]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[8.3, 14.356, 15.244000000000002]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 166, 22.9, 1.055, 0.0, 82.3, 0.77, 22.1, 1.38]
+INFO:root:shaft_torque：22.1
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 166, 22.4, 1.055, 0.0, 82.1, 0.53, 15.4, 0.95]
+INFO:root:shaft_torque：15.4
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 166, 22.4, 1.055, 0.0, 82.1, 0.53, 15.2, 0.94]
+INFO:root:shaft_torque：15.2
+INFO:root:i：12
+INFO:root:higheffcurrent, higheffmotoreff, highefftorque[0.44, 77.4, 12.84]
+INFO:root:DCBusVoltageuplimit, DCBusVoltagedownlimit[23.28, 22.32]
+INFO:root:[DCBusVoltage, ArmatureTurnsPerCoil01, PeakLineLineVoltage0, ConverterLosses, RMSTerminalVoltage_PMDC, SystemEfficiency, MeanDCSupplyCurrent, ShaftTorque, PeakCurrent]
+INFO:root:targetorque torquedownlimit resultlistt：[7.4, 12.454799999999999, 13.225200000000001]
+INFO:root:targetorque < torquedownlimit resultlistt：[24.0, 178, 22.6, 1.182, 0.0, 81.6, 0.63, 19.2, 1.11]
+INFO:root:shaft_torque：19.2
+INFO:root:targetorque > torqueuplimit resultlistt：[24.0, 178, 22.4, 1.182, 0.0, 79.9, 0.44, 13.2, 0.76]
+INFO:root:shaft_torque：13.2
+INFO:root:背压匝数计算结果：
+[higheffspeed, turncuren, ConverterLosses, 原, higheffcurrent, highefftorque, higheffmotoreff, 计算, PeakLineLineVoltage0, ShaftTorque] 
+
+[9706.0, 94.0, 0.403, 5.0, '原', 1.67, 32.61, 82.7, '计算', 22.5, 33.5]
+[9702.0, 94.0, 0.403, 5.0, '原', 1.67, 32.52, 82.5, '计算', 22.5, 33.4]
+[9705.0, 94.0, 0.401, 5.0, '原', 1.66, 32.4, 82.7, '计算', 22.5, 33.3]
+[9706.0, 94.0, 0.403, 8.0, '原', 1.67, 32.26, 81.8, '计算', 22.5, 33.2]
+[9707.0, 94.0, 0.403, 8.0, '原', 1.67, 32.1, 81.4, '计算', 22.4, 33.0]
+[9479.0, 103.0, 0.377, 11.0, '原', 1.56, 30.69, 81.3, '计算', 22.4, 31.6]
+[9040.0, 111.0, 0.329, 11.0, '原', 1.36, 28.28, 82.0, '计算', 22.5, 29.1]
+[8518.0, 121.0, 0.329, 14.0, '原', 1.13, 25.07, 82.4, '计算', 22.4, 25.8]
+[8080.0, 131.0, 0.329, 14.0, '原', 0.97, 22.57, 81.9, '计算', 22.4, 23.2]
+[7568.0, 142.0, 0.713, 14.0, '原', 0.8, 19.77, 81.5, '计算', 22.4, 20.2]
+[6973.0, 156.0, 0.864, 14.0, '原', 0.63, 16.85, 81.2, '计算', 22.5, 17.3]
+[6535.0, 166.0, 1.055, 14.0, '原', 0.53, 14.8, 79.4, '计算', 22.4, 15.2]
+[6094.0, 178.0, 1.182, 14.0, '原', 0.44, 12.84, 77.4, '计算', 22.4, 13.2]
+
+INFO:root:结束时间：2022-01-09 17:54:41.742591

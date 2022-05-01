@@ -1,0 +1,25 @@
+INFO:root:总计算次数：1
+INFO:root:定子内径 : 10.0
+INFO:root:极对数 : 2.0
+INFO:root:匝数 : 94
+INFO:root:转速 : 11986.0
+INFO:root:铁壳厚 : 1.1
+INFO:root:气隙 : 0.42
+INFO:root:超前角 : 14.0
+INFO:root:峰值电流 : 1.3
+INFO:root:磁铁厚度 : 2.6
+INFO:root:定子外径 : 32.9
+INFO:root:槽顶深 : 1.1
+INFO:root:齿宽 : 4.0
+INFO:root:槽深 : 8.9
+INFO:root:槽底圆角 : 0.5
+INFO:root:绕组端部长 : 4.6
+INFO:root:线径 : 0.415
+INFO:root:裸线径 : 0.375
+INFO:root:槽顶角度 : 34.0
+INFO:root:计算结果：[0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001]
+INFO:root:0
+INFO:root:单次耗时：64  总耗时：81
+INFO:root:turnscaccheck1.0
+INFO:root:turnscachigeffcheck4.0
+INFO:root:完成
